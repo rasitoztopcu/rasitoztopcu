@@ -1,19 +1,19 @@
 <p align="center">
-    <h1 align="center">Hi👋, I'm Mazyar</h1>
+    <h1 align="center">Hi👋, I'm Raşit</h1>
 </p>
 <p align="center">
-    <a href="https://www.linkedin.com/in/mazyargholami" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/rasitoztopcu" alt="LinkedIn">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:mazrgholami@gmail.com" alt="gmail">
+    <a href="mailto:rasitoztopcu@gmail.com" alt="gmail">
         <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=gmail&logoColor=white" />
     </a>
 </p>
 
 <br />
 
-## Blockchain / Backend Developer
-#### As a self-taught developer, my curiosity and my motivation always push me to create new things, it allowed me to learn autonomy through blockchain and web development projects and designs I made.
+## OpennCV / ML / AI
+#### As a self-taught developer, my curiosity and motivation always drive me to create new things, allowing me to combine learning through autonomy in image processing and artificial intelligence projects.
 
 <br />
 
