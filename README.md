@@ -12,7 +12,7 @@
 
 <br />
 
-## OpennCV / ML / AI
+## OpenCV / ML / AI
 #### As a self-taught developer, my curiosity and motivation always drive me to create new things, allowing me to combine learning through autonomy in image processing and artificial intelligence projects.
 
 <br />
